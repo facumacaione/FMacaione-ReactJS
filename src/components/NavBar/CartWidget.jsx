@@ -2,7 +2,7 @@ import iconCart from "../../assets/carrito.png"
 
 const CartWidget = () => {
     return (
-        <div>
+        <div className="div-cart">
             <img src={iconCart}></img>
         </div>
     )

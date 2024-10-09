@@ -1,0 +1,42 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: whitesmoke
+}
+
+.escudo-river  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 7.5rem;
+    height: 9.375rem;
+}
+
+.escudo-river img {
+    min-width: 75%;
+    height: 75%;
+}
+
+.titulo {
+    font-size: 2.4rem;
+    font-family: "Press Start 2P", cursive;
+}
+
+.river-v {
+    color: red;
+    font-family: "Press Start 2P", cursive;
+}
+
+.div-cart {
+    width: 2.8rem;
+    height: 3.8rem;
+}
+
+.div-cart img {
+    min-width: 100%;
+    height: 100%;
+}
+
+
+

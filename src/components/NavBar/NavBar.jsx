@@ -1,12 +1,15 @@
 import CartWidget from "./CartWidget"
-import "./navbar.css"
+import Escudo from "./Escudo"
+import TituloNav from "./TituloNav"
+import "./NavBar.css"
 
 const NavBar = () => {
     return (
-        <div>
-            <h1>Navbar</h1>
+        <nav className="navbar">
+            <Escudo />
+            <TituloNav />
             <CartWidget />
-        </div>
+        </nav>
     )
 }
 

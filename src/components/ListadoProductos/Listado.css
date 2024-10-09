@@ -1,0 +1,15 @@
+.listado ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    background-color: black;
+
+}
+
+.listado ul li {
+    padding: 1.25rem 2rem;
+    background-color: red;
+    color: white;
+    font-family: "Press Start 2P", cursive;
+}
